@@ -11,10 +11,11 @@ Currently, two official plugins are available:
 # Mis comentarios #
 
 1.- Crear la APP
-        npm create vite@latest
-        // Equivalente 1: yarn create vite
-        npm install
-
+    ```
+    npm create vite@latest
+    // Equivalente 1: yarn create vite
+    npm install
+    ```
 2.- Arrancar la APP:
     npm run dev -- --host
 
